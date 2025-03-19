@@ -16,4 +16,4 @@ add action=accept comment="Mikhmon QR Code Scanner" disabled=no dst-host=alidwp1
 
 ### Powered by webqr.com
 -----
-#CR : <a href:"https://laksa19.github.io">laksa19</a>
+# CR : <a href="https://laksa19.github.io">laksa19 </a>
